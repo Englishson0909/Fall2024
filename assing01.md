@@ -38,7 +38,7 @@ Activity: Students fill in the blanks using the appropriate grammar forms, such 
 (3) listening mp3 file 
 
 (4) writing: writing a story using chatgpt to get an error-free English text. (only for grammar checker) 
-            writing a story using zoho to complete a story with friends (https://writer.zoho.com/writer/documents)  
+            writing a story using zoho to complete a story with friends [ZOHO](https://writer.zoho.com/writer/documents)  
             
 
 ## 5. The Language Learning Material
