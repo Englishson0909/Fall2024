@@ -12,9 +12,9 @@
 4) Give other teams feedback on the story  
 
 
-3. digital tool [codes].(https://colab.research.google.com/drive/1XG31ZP5ebvyipdfx2af79mudRgjhxjq2#scrollTo=Usdw224ulviw)
+3. digital tool [codes].(https://colab.research.google.com/drive/1XG31ZP5ebvyipdfx2af79mudRgjhxjq2#scrollTo=Usdw224ulviw).
 1) [Video Clip].(https://www.youtube.com/watch?v=uxFJvlWqphM).
-2) [Listening the script].(content/output.mp3)
+2) [Listening the script].(content/output.mp3).
 3) [Chatgpt](https://openai.com/index/gpt-4/)
 
 4. The Language Learning Activity
