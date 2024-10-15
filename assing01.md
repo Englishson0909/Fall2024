@@ -33,7 +33,7 @@
 (2) grammar: Fill in the Blanks
 Description: Provide sentences with missing words and a word bank to choose from.
 
-Activity: Students fill in the blanks using the appropriate grammar forms, such passive voice.(https://sapling.ai/utilities/active_to_passive) 
+Activity: Students fill in the blanks using the appropriate grammar forms, such passive voice.[Passive vocice exercise](https://sapling.ai/utilities/active_to_passive) 
 
 (3) listening mp3 file 
 
