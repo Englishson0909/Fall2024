@@ -23,6 +23,8 @@
 (3) [Listening the script](content/output.mp3).
 (4) [Chatgpt](https://openai.com/index/gpt-4/)
 (5) [zoho](https://writer.zoho.com/writer/documents)  
+(6) [True, false Quiz](https://opexams.com/ko/ai-quiz-generator/).
+
 
 ## 4. The Language Learning Activity
 
@@ -57,7 +59,8 @@
  
  (3) Book cover 
  
- (4) AI tools 
+ (4) AI tools
+ 
   [Writing](https://writer.zoho.com/writer/documents)  
  
   [True, false Quiz](https://opexams.com/ko/ai-quiz-generator/).
@@ -81,8 +84,8 @@
 
 ## 7.Additional recommended activities
 
-1) Make a New OST based on the story created by the team (https://makebestmusic.com/text-to-music)
-2) Make a Music Video (https://app.pictory.ai/storyboard/scripttovideo) or Trailor based on the story
+1) Make a New OST based on the story created by the team [OST MAKER](https://makebestmusic.com/text-to-music)
+2) [Make a Music Video](https://app.pictory.ai/storyboard/scripttovideo) or Trailor based on the story
 3) Write a letter to the chararcters
 4) Write a pre story
 5) 
