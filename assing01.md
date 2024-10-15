@@ -2,22 +2,30 @@
 
 ## 1. Objectives: 
 (1) Students are able to understand a part of the story.
+
 (2) Students are able to write the next part of the story using their imagination.
+
 (3) Students are able to understand the writing created by their friends based on their imagination
 
 2. Learning activity
+
  (1) Reading and translation 
+ 
  (2) Discussion and writing a short story (a story with 5 sentences, including Jonas, Gabriel, a house with light)
+ 
  (3) Listen the others' team story file and choose true or false.   
+ 
  (4) Give other teams feedback on the story  
 
 
-3. digital tool [codes](https://colab.research.google.com/drive/1XG31ZP5ebvyipdfx2af79mudRgjhxjq2#scrollTo=Usdw224ulviw).
-(1) [Video Clip](https://www.youtube.com/watch?v=uxFJvlWqphM).
-(2) [Listening the script](content/output.mp3).
-(3) [Chatgpt](https://openai.com/index/gpt-4/)
+3. digital tool
+(1) [codes](https://colab.research.google.com/drive/1XG31ZP5ebvyipdfx2af79mudRgjhxjq2#scrollTo=Usdw224ulviw).
+(2) [Video Clip](https://www.youtube.com/watch?v=uxFJvlWqphM).
+(3) [Listening the script](content/output.mp3).
+(4) [Chatgpt](https://openai.com/index/gpt-4/)
+(5) [zoho](https://writer.zoho.com/writer/documents)  
 
-4. The Language Learning Activity
+5. The Language Learning Activity
 (1) vocabulary 
 
 (2) grammar
