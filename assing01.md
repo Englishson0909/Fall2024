@@ -9,13 +9,12 @@
 
 ## 2. Learning activity
 
- (1) Reading and translation 
+ (1) [Reading and translation](https://github.com/Englishson0909/Fall2024/blob/main/The%20Giver.md)
  
  (2) Discussion and writing a short story (a story with 5 sentences, including Jonas, Gabriel, a house with light)
  
  (3) Listen the others' team story file and choose true or false.   
  
- (4) Give other teams feedback on the story  
 
 
 ## 3. digital tool
@@ -39,7 +38,7 @@
 
 ## 5. The Language Learning Material
 
- (1) Reading mateirals 
+ (1) [Reading mateirals](https://github.com/Englishson0909/Fall2024/blob/main/The%20Giver.md)
 
 
 ## 6. Lesson plan
@@ -54,14 +53,36 @@
  
  (1) Reading material
  
- (2) Video clip
+ (2) Video clip 
  
  (3) Book cover 
  
  (4) AI tools 
-  (Writing)[zoho](https://writer.zoho.com/writer/documents). 
+  [Writing](https://writer.zoho.com/writer/documents)  
  
   [True, false Quiz](https://opexams.com/ko/ai-quiz-generator/).
 
-3) 
-3) 
+
+3) Lesson (procedure)
+
+   (1) Before understanding the meaning of the text, students will look at the book cover and imagine the content.
+
+   (2) After reading a text, students will graps of the content.
+
+   (3) Students watch the movie trailor and discuss the contets of the story.
+
+   (4) Students write a story coming to the next page of the given story
+
+   (5) Students make an mp3 files based on the story they've created.
+
+   (6) Students make true/false quiz based on the story they've created
+
+   
+
+## 7.Additional recommended activities
+
+1) Make a New OST based on the story created by the team (https://makebestmusic.com/text-to-music)
+2) Make a Music Video (https://app.pictory.ai/storyboard/scripttovideo) or Trailor based on the story
+3) Write a letter to the chararcters
+4) Write a pre story
+5) 
