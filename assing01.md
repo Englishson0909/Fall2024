@@ -24,13 +24,16 @@
 (4) [Chatgpt](https://openai.com/index/gpt-4/)
 (5) [zoho](https://writer.zoho.com/writer/documents)  
 (6) [True, false Quiz](https://opexams.com/ko/ai-quiz-generator/).
-
+(7) [grammar exercise](https://sapling.ai/utilities/active_to_passive)
 
 ## 4. The Language Learning Activity
 
 (1) vocabulary 
 
-(2) grammar
+(2) grammar: Fill in the Blanks
+Description: Provide sentences with missing words and a word bank to choose from.
+
+Activity: Students fill in the blanks using the appropriate grammar forms, such passive voice.(https://sapling.ai/utilities/active_to_passive) 
 
 (3) listening mp3 file 
 
