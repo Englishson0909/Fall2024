@@ -12,15 +12,18 @@
  (4) Give other teams feedback on the story  
 
 
-3. digital tool [codes].(https://colab.research.google.com/drive/1XG31ZP5ebvyipdfx2af79mudRgjhxjq2#scrollTo=Usdw224ulviw).
-(1) [Video Clip].(https://www.youtube.com/watch?v=uxFJvlWqphM).
-(2) [Listening the script].(content/output.mp3).
+3. digital tool [codes](https://colab.research.google.com/drive/1XG31ZP5ebvyipdfx2af79mudRgjhxjq2#scrollTo=Usdw224ulviw).
+(1) [Video Clip](https://www.youtube.com/watch?v=uxFJvlWqphM).
+(2) [Listening the script](content/output.mp3).
 (3) [Chatgpt](https://openai.com/index/gpt-4/)
 
 4. The Language Learning Activity
 (1) vocabulary 
+
 (2) grammar
+
 (3) listening mp3 file 
+
 (4) writing: writing a story using chatgpt to get an error-free English text. (only for grammar checker) 
             writing a story using zoho to complete a story with friends (https://writer.zoho.com/writer/documents)  
             
