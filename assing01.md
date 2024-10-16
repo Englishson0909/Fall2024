@@ -17,7 +17,8 @@
  (4) Grammar activity 
 
 ## 3. digital tool
-(1) [Codes](https://colab.research.google.com/drive/1XG31ZP5ebvyipdfx2af79mudRgjhxjq2#scrollTo=Usdw224ulviw)
+(1) [Codes](https://colab.research.google.com/drive/1XG31ZP5ebvyipdfx2af79mudRgjhxjq2#scrollTo=Usdw224ulviw
+(https://colab.research.google.com/drive/1XG31ZP5ebvyipdfx2af79mudRgjhxjq2?usp=sharing)
 (2) [Video Clip](https://www.youtube.com/watch?v=uxFJvlWqphM)
 (3) [Listening the script](content/output.mp3)
 (4) [Chatgpt](https://openai.com/index/gpt-4/)
