@@ -17,17 +17,17 @@
  (4) Grammar activity 
 
 ## 3. digital tool
-(1) [codes](https://colab.research.google.com/drive/1XG31ZP5ebvyipdfx2af79mudRgjhxjq2#scrollTo=Usdw224ulviw)
+(1) [Codes](https://colab.research.google.com/drive/1XG31ZP5ebvyipdfx2af79mudRgjhxjq2#scrollTo=Usdw224ulviw)
 (2) [Video Clip](https://www.youtube.com/watch?v=uxFJvlWqphM)
 (3) [Listening the script](content/output.mp3)
 (4) [Chatgpt](https://openai.com/index/gpt-4/)
-(5) [zoho](https://writer.zoho.com/writer/documents)  
+(5) [Zoho](https://writer.zoho.com/writer/documents)  
 (6) [True, false Quiz](https://opexams.com/ko/ai-quiz-generator/)
 (7) [grammar exercise](https://sapling.ai/utilities/active_to_passive)
 
 ## 4. The Language Learning Activity
 
-(1) vocabulary: Guessing the meaning of new words in the context (https://github.com/Englishson0909/Fall2024/raw/main/New%20words.md)   
+(1) vocabulary: Guessing the meaning of new words in the context [Guesing words](https://github.com/Englishson0909/Fall2024/raw/main/New%20words.md)   
 
 (2) grammar: Fill in the Blanks
 Description: Provide sentences with missing words and a word bank to choose from.
