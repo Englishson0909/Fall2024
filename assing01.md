@@ -27,7 +27,7 @@
 
 ## 4. The Language Learning Activity
 
-(1) vocabulary:  
+(1) vocabulary: Guessing the meaning of new words in the context   
 
 (2) grammar: Fill in the Blanks
 Description: Provide sentences with missing words and a word bank to choose from.
@@ -44,19 +44,6 @@ Activity: Students fill in the blanks using the appropriate grammar forms, such 
 
  (1) [Reading mateirals](https://github.com/Englishson0909/Fall2024/blob/main/The%20Giver.md)
 
-
-## 6. Lesson plan
-
-1) Objectives
-
- (1) Students are able to understand a part of the story.
- 
- (2) Students are able to write the next part of the story using their imagination.
-
-2) Material 
- 
- (1) Reading material
- 
  (2) Video clip 
  
  (3) Book cover 
@@ -69,7 +56,16 @@ Activity: Students fill in the blanks using the appropriate grammar forms, such 
   
   [grammar exercise](https://sapling.ai/utilities/active_to_passive)
 
-3) Lesson (procedure)
+## 6. Lesson plan
+
+1) Objectives
+
+ (1) Students are able to understand a part of the story.
+ 
+ (2) Students are able to write the next part of the story using their imagination.
+
+
+2) Lesson (procedure)
 
    (1) Before understanding the meaning of the text, students will look at the book cover and imagine the content. [codes](https://colab.research.google.com/drive/1XG31ZP5ebvyipdfx2af79mudRgjhxjq2#scrollTo=Usdw224ulviw) 
 
