@@ -1,4 +1,4 @@
- # TITLE: Beyond the Pages
+ # Title: Beyond the Pages
 
 ## 1. Objectives: 
 (1) Students are able to understand a part of the story.
@@ -8,13 +8,13 @@
 
 ## 2. Learning activity
 
- (1) [Reading and translation](https://github.com/Englishson0909/Fall2024/blob/main/The%20Giver.md)
+ (1) Reading [Reading and translation](https://github.com/Englishson0909/Fall2024/blob/main/The%20Giver.md)
  
- (2) Discussion and writing a short story (a story with 5 sentences, including Jonas, Gabriel, a house with light)
+ (2) Discussion and writing a short story (a story with 5 sentences, including Jonas, Gabriel, a house with light) on the next part 
  
  (3) Listen the others' team story file and choose true or false.   
  
-
+ (4) Grammar activity 
 
 ## 3. digital tool
 (1) [codes](https://colab.research.google.com/drive/1XG31ZP5ebvyipdfx2af79mudRgjhxjq2#scrollTo=Usdw224ulviw).
@@ -88,7 +88,7 @@ Activity: Students fill in the blanks using the appropriate grammar forms, such 
 ## 7.Additional recommended activities
 
 1) Make a New OST based on the story created by the team [OST MAKER](https://makebestmusic.com/text-to-music)
-2) [Make a Music Video](https://app.pictory.ai/storyboard/scripttovideo) or Trailor based on the story
+2) Making a music video [Make a Music Video](https://app.pictory.ai/storyboard/scripttovideo) or Trailor based on the story
 3) Write a letter to the chararcters
 4) Write a pre story
 5) Dictation with mp3 files (to focus on grammar point or story) 
