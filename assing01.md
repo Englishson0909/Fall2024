@@ -81,7 +81,7 @@ Activity: Students fill in the blanks using the appropriate grammar forms, such 
 
    
 
-## 7.Additional recommended activities
+## 7. Additional recommended activities
 
 1) Make a New OST based on the story created by the team [OST MAKER](https://makebestmusic.com/text-to-music)
 2) Making a music video [Make a Music Video](https://app.pictory.ai/storyboard/scripttovideo) or Trailor based on the story
