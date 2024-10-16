@@ -27,7 +27,7 @@
 
 ## 4. The Language Learning Activity
 
-(1) vocabulary: Guessing the meaning of new words in the context   
+(1) vocabulary: Guessing the meaning of new words in the context (https://github.com/Englishson0909/Fall2024/raw/main/New%20words.md)   
 
 (2) grammar: Fill in the Blanks
 Description: Provide sentences with missing words and a word bank to choose from.
