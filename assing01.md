@@ -5,7 +5,6 @@
 
 (2) Students are able to write the next part of the story using their imagination.
 
-(3) Students are able to understand the writing created by their friends based on their imagination
 
 ## 2. Learning activity
 
@@ -28,7 +27,7 @@
 
 ## 4. The Language Learning Activity
 
-(1) vocabulary 
+(1) vocabulary: 
 
 (2) grammar: Fill in the Blanks
 Description: Provide sentences with missing words and a word bank to choose from.
@@ -67,21 +66,22 @@ Activity: Students fill in the blanks using the appropriate grammar forms, such 
   [Writing](https://writer.zoho.com/writer/documents)  
  
   [True, false Quiz](https://opexams.com/ko/ai-quiz-generator/).
-
+  
+  [grammar exercise](https://sapling.ai/utilities/active_to_passive)
 
 3) Lesson (procedure)
 
-   (1) Before understanding the meaning of the text, students will look at the book cover and imagine the content.
+   (1) Before understanding the meaning of the text, students will look at the book cover and imagine the content. [codes](https://colab.research.google.com/drive/1XG31ZP5ebvyipdfx2af79mudRgjhxjq2#scrollTo=Usdw224ulviw). 
 
-   (2) After reading a text, students will graps of the content.
+   (2) After reading a text, students will understand the content. [Reading and translation](https://github.com/Englishson0909/Fall2024/blob/main/The%20Giver.md)
 
-   (3) Students watch the movie trailor and discuss the contets of the story.
+   (3) Students watch the movie trailor and discuss the contets of the story. [Video Clip](https://www.youtube.com/watch?v=uxFJvlWqphM). 
 
-   (4) Students write a story coming to the next page of the given story
+   (4) Students write a story coming to the next page of the given story.  [zoho](https://writer.zoho.com/writer/documents)  
 
-   (5) Students make an mp3 files based on the story they've created.
+   (5) Students make an mp3 files based on the story they've created. [codes](https://colab.research.google.com/drive/1XG31ZP5ebvyipdfx2af79mudRgjhxjq2#scrollTo=Usdw224ulviw).
 
-   (6) Students make true/false quiz based on the story they've created
+   (6) Students make true/false quiz based on the story they've created  [True, false Quiz](https://opexams.com/ko/ai-quiz-generator/).
 
    
 
@@ -91,4 +91,4 @@ Activity: Students fill in the blanks using the appropriate grammar forms, such 
 2) [Make a Music Video](https://app.pictory.ai/storyboard/scripttovideo) or Trailor based on the story
 3) Write a letter to the chararcters
 4) Write a pre story
-5) Dictation with mp3 files (to figure out grammar point or story) 
+5) Dictation with mp3 files (to focus on grammar point or story) 
