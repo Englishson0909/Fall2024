@@ -8,6 +8,7 @@ https://app.steve.ai/steveai/publish/KB9BtZIB5F79kq-tvEBm
 
 
 https://elevenlabs.io/app/speech-synthesis/text-to-speech
+아도비 express 
 
 
 
