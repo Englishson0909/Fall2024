@@ -5,3 +5,10 @@ https://videoexpress.ai/go/
 https://www.naturalreaders.com/online/
 
 https://app.steve.ai/steveai/publish/KB9BtZIB5F79kq-tvEBm
+
+
+https://elevenlabs.io/app/speech-synthesis/text-to-speech
+
+
+
+
