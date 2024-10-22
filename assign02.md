@@ -3,3 +3,5 @@ autodraw: 리딩하고 인상적인 내용 혹은 독해읽고 장면 그리기
 https://youtube.com/shorts/ObMnw8woAog?si=jVxrbju2Am-eTd4M
 https://videoexpress.ai/go/
 https://www.naturalreaders.com/online/
+
+https://app.steve.ai/steveai/publish/KB9BtZIB5F79kq-tvEBm
