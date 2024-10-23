@@ -6,7 +6,7 @@
 
 ## 2. Learning activity
 
- (1) video clip (https://youglish.com/pronounce/are%20supposed%20to/english)
+ (1) video clip [site](https://youglish.com/pronounce/are%20supposed%20to/english)
  
  (2) Listen and find out the target expression 
  
